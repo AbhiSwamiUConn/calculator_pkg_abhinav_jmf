@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "calculator_pkg_abhinav_jmf"
 version = "0.8.0"
 requires-python = ">=3.10"
-description = "Calulator demo without pybind11"
+description = "Calulator demo pybind11"
 readme = "README.md"
 authors = [
     {name = "Abhinav Swaminathan", email = "abhinav.swaminathan@uconn.edu"}
